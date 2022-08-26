@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my Alx Projects
 - 🌱 I’m currently learning C & Python at Alx School
-- 👯 I'm learning just for the fun of it
+- 👯 I'm learning just for the fun of it :relaxed:
 - 💬 Ask me about myself
 - 📫 How to reach me: courageeboigbe20@gmail.com
 - 😄 Pronouns: We or Whatever
@@ -28,7 +28,8 @@
 ![NODEJS](https://img.shields.io/badge/NODEJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MONGODB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 </br>
 
 
