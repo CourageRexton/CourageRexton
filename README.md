@@ -8,6 +8,8 @@
 - 😄 Pronouns: We or Whatever
 - ⚡ Fun fact: C is mean 
 
+![](https://komarev.com/ghpvc/?username=your-CourageRexton)
+
 ## :computer: Tech Skills 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
