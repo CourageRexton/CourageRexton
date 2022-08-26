@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my Alx Projects
 - 🌱 I’m currently learning C & Python at Alx School
-- 👯 I’m looking to collaborate on Web3 projects
+- 👯 I'm learning just for the fun of it
 - 💬 Ask me about myself
 - 📫 How to reach me: courageeboigbe20@gmail.com
 - 😄 Pronouns: We or Whatever
@@ -36,7 +36,7 @@
 ## 📊 My Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CourageRexton&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
-<img src="https://github-readme-stats.vercel.app/api?username=CourageRexton&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=0D1117">
+<img src="https://github-readme-stats.vercel.app/api?username=CourageRexton&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0D1117">
 
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
